@@ -1,0 +1,19 @@
+.gpt3__features{
+    display: flex;
+    justify-content: space-between;
+}
+.gpt3__features-heading{
+    max-width: 330px;
+}
+.gpt3__features .gpt3__feature{
+    margin-left: 8rem;
+    width:87%;
+    margin-bottom:4rem;
+    margin-right: 0;
+    flex:1.5;
+    justify-content: flex-end;
+}
+.gpt3__features .gpt3__feature-text{
+    justify-content: flex-end;
+    margin-left: 5rem;
+}
